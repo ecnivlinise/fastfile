@@ -1,0 +1,13 @@
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\bin\Debug\fastfile.exe.config
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\bin\Debug\fastfile.exe
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\bin\Debug\fastfile.pdb
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\bin\Debug\fastfile.xml
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.vbprojAssemblyReference.cache
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.Form1.resources
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.Resources.resources
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.vbproj.GenerateResource.cache
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.vbproj.CoreCompileInputs.cache
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.exe
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.xml
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.pdb
+X:\fichiers\Nouveau dossier\program\fastfile\fastfile\obj\Debug\fastfile.Form2.resources
